@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.first-part {
+  background-color: #2d6cdf;
+  position: relative;
+}
+.text-1 {
+  text-align: center;
+  font-family: sacramento;
+  color: #3b4a6b;
+  font-size: 3rem;
+}
+.text-2 {
+  text-align: center;
+  font-family: b612;
+  color: #3b4a6b;
+}
+.top-cloud {
+  position: relative;
+  left: 380px;
+  top: 70px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 150px;
+  bottom: 250px;
+  color: aliceblue;
+  height: 60px;
+}
+.my-image {
+  margin: 40px auto 70px auto;
+  height: 200px;
+  width: 200px;
+}
+.hello1 {
+  color: #3b4a6b;
+  font-family: b612;
+  font-size: 3rem;
+}
+.welcome2 {
+  font-size: 1.5rem;
+  font-family: b612;
+  color: #3b4a6b;
+}
+.PART-1 {
+  font-family: B612;
+}
+.PART-2 {
+  font-family: B612;
+}
+.skills {
+  color: #3b4a6b;
+  font-family: b612;
+  margin-top: 100px;
+}
+.coool {
+  width: 50%;
+  margin: 100px auto 0 auto;
+  text-align: left;
+  line-height: 1.5;
+}
+.computer {
+  width: 20%;
+  float: left;
+  margin-top: 5%;
+}
+.heading {
+  font-family: b612;
+  color: #3b4a6b;
+}
+.heybro {
+  width: 50%;
+  margin: 100px auto 0 auto;
+  text-align: center;
+  text-align: left;
+  line-height: 1.5;
+}
+.chiiiiillies {
+  width: 21%;
+  float: right;
+  margin-left: 5%;
+}
+.heading-2 {
+  color: #3b4a6b;
+  font-family: b612;
+}
+.contact {
+  width: 50%;
+  margin: 100px auto 0 auto;
+  line-height: 1;
+}
+.heading-3 {
+  color: #3b4a6b;
+  font-family: b612;
+}
+.gmail {
+  color: #3b4a6b;
+  font-family: b612;
+}
+.button-2 {
+  background-color: turquoise;
+  border: none;
+  border-radius: 5px;
+  padding: 7px;
+  color: aliceblue;
+}
+.messi {
+  width: 50%;
+  margin: 40px auto 100px auto;
+}
+
+.neymar {
+  background-color: #3b4a6b;
+  border: none;
+  border-radius: 10px;
+  padding: 12px;
+  color: aliceblue;
+  text-decoration: none;
+}
+.hobby {
+  font-family: b612;
+}
+
+.pckills {
+  font-family: b612;
+}
+.ronaldo {
+  font-family: b612;
+}
+.footer {
+  background-color: #3b4a6b;
+  height: 200px;
+  padding-top: 100px;
+}
+.link {
+  padding: 30px;
+  text-decoration: none;
+  color: aliceblue;
+  font-family: Bebas Neue;
+  font-size: 1.25rem;
+}
+.link:hover {
+  color: #2d6cdf;
+}
+.neymar:hover {
+  background-color: pink;
+  color: #2d6cdf;
+}
+.push {
+  color: aliceblue;
+  padding-top: 12px;
+}
